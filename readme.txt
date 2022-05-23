@@ -1,4 +1,9 @@
-﻿Manualne przycinanie chmury punktów
+﻿PROGRAM NIE ZADZIAŁA
+NALEŻY POBRAĆ PLIKI .LAS
+UMIEŚCIĆ W LINIJKACH 13, 14 FTP_script_1.py
+
+
+Manualne przycinanie chmury punktów
     Etapy przetwarzania danych:
     (0) Manualne zdefiniowanie widoku poprzez obrót myszka lub:
     (0.1) Podwójne wciśnięcie klawisza X - zdefiniowanie widoku ortogonalnego względem osi X
